@@ -1,0 +1,4 @@
+redis-data
+docker-compose.yml
+.gitignore
+README.md
